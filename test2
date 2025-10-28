@@ -1,1 +1,5 @@
 This is a new test file from feature branch
+<<<<<<< HEAD
+=======
+Modifiying for amend commit 
+>>>>>>> feature/test-branch
